@@ -16,7 +16,7 @@ This project simulates complex production cycles and the interactions between ma
 **Dynamic Capabilities:** Utilization of the Java Reflection API for runtime object creation and system element management.
 
 ## Tech Stack
-**Language:** Java 17+
+**Language:** Java 24+
 
 **GUI:** Java Swing / AWT (utilized strictly for logic visualization and manual testing).
 
